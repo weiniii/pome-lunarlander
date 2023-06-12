@@ -1,2 +1,8 @@
 # pome-lunarlander
-POME in LunarLunder
+The implementation of this paper. [Policy Optimization with Model-based Explorations](https://ojs.aaai.org/index.php/AAAI/article/view/4392)
+
+
+There is a comparsion. [PPO](https://arxiv.org/abs/1707.06347)
+
+
+Because these two methods are just some different.
