@@ -6,3 +6,6 @@ There is a comparsion. [PPO](https://arxiv.org/abs/1707.06347)
 
 
 Because these two methods are just some different.
+
+
+But I don't know why POME didn't converge in LunarLander.
